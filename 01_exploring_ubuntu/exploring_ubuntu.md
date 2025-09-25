@@ -1,9 +1,4 @@
-David Rivas  
-Professor Hoffmann  
-CPS593-10 Network Security  
-25 September 2025  
-
-# Assignment 4
+# Exploring Ubuntu
 
 ## Identify Network Interfaces and IP Addresses
 
